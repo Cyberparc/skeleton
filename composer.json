@@ -1,0 +1,19 @@
+{
+
+    "name":"Farouktouil/skeleton",
+    "description":"skeleton demo",
+    "license":"MIT",
+    "keywords":["skeleton"],
+    "authors": [
+      {
+      "name": "Farouk Touil",
+      "email": "farouktouil@hotmail.com"
+    }
+  ],
+    "autoload": {
+      "psr-4": {
+          "Farouktouil\\Skeleton\\": "src"
+        }
+      }
+
+}

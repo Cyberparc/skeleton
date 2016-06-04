@@ -1,0 +1,4 @@
+/vendor
+.phpunit.xml.swp
+.travis.yml.swp
+.gitignore.swp
